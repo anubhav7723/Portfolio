@@ -7,6 +7,8 @@ import IBMPython from "../../assets/IBMPython.png"
 import IBMsql from "../../assets/IBMsql.png"
 import NPTELPython from "../../assets/NPTELPython.png"
 import ResearchPaper from "../../assets/ResearchPaper.png"
+import CodeForBharat from "../../assets/CodeForBharat2.png"
+import AceHack from "../../assets/AceHack.jpeg"
 
 export default function Certifications() {
   const certRef = useRef(null)
@@ -60,6 +62,24 @@ export default function Certifications() {
       skills: ["Scientific Writing", "Algorithm Optimization", "Peer Review", "Statistical Validity"],
       verifyUrl: "https://drive.google.com/file/d/1kxKB1yKCxUHvMl4XhbNusNNHKjEIJY0o/view?usp=drive_link",
       image: ResearchPaper
+    },
+    {
+      title: "Code For Bharat 2 Hackathon",
+      issuer: "Unstop - Code For Bharat",
+      date: "Participated 2025",
+      id: "Code for bharat",
+      skills: ["Hackathon", "ChatBot", "Unstop", "Participation"],
+      verifyUrl: "https://drive.google.com/file/d/1Vr0TM93rgFEqWkdCvcNoxjavwqmFBVqQ/view?usp=drive_link",
+      image: CodeForBharat
+    },
+    {
+      title: "AceHack 4.0 Hackathon",
+      issuer: "UEM , Jaipur",
+      date: "Participated 2025",
+      id: "Acehack",
+      skills: ["Hackathon", "Web App", "Dora Hacks", "Participation"],
+      verifyUrl: "https://drive.google.com/file/d/1iYTD3yhCuA7MlrjXoVIv3KdSwZTv9m2u/view?usp=drive_link",
+      image: AceHack
     }
   ]
 

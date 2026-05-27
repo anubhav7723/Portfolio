@@ -34,7 +34,7 @@ export default function About() {
               <span>👤</span> Who I Am
             </h3>
             <p className="text-slate-600 leading-relaxed text-sm">
-              I’m a final year B.Tech CSE (AIML) student passionate about Artificial Intelligence, Machine Learning, and building real-world AI-powered applications. My primary focus is on Agentic AI, Geneartive AI, ML, and developing intelligent systems that combine powerful machine learning capabilities with modern, user-friendly web experiences.
+              I’m a final year B.Tech CSE (AIML) student passionate about AI, ML, Data Engineering and building real-world AI-powered applications. My primary focus is on Agentic AI, Geneartive AI, ML and developing intelligent systems that combine powerful machine learning capabilities with modern, user-friendly web experiences.
 
               <br /><br />
               With 400+ LeetCode problems solved in C++ and Python, I’ve developed strong problem-solving, debugging, and algorithmic thinking skills. I enjoy building scalable AI solutions, creating clean and interactive frontends, and transforming complex ideas into simple, impactful products through well-structured development and clear project documentation.

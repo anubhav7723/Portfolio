@@ -32,20 +32,20 @@ export default function Home() {
             {/* Tagline Badge */}
             <div className="hero-badge self-start flex items-center gap-2 px-3.5 py-1 rounded-full bg-emerald-50 border border-emerald-200 text-xs font-semibold text-emerald-800 tracking-wide">
               <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-              Open for internships & project collaborations
+              Open for internships, jobs & project collaborations
             </div>
 
             {/* Heading */}
             <h1 className="hero-title text-5xl md:text-6xl font-extrabold tracking-tight leading-tight text-slate-900">
               Hi, I'm <br />
               <span className="text-slate-900">
-                Anubhav
+                Anubhav Gupta
               </span>
             </h1>
 
             {/* Subtitle */}
             <h2 className="hero-subtitle text-lg md:text-xl font-bold text-slate-700 flex items-center gap-2">
-              AIML Developer <span className="text-slate-400">&bull;</span> Python Developer
+              AIML Developer <span className="text-slate-400">&bull;</span> Python Developer <span className="text-slate-400">&bull;</span> Data Science
             </h2>
 
             {/* Description */}
@@ -67,6 +67,17 @@ export default function Home() {
                 See My Projects
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth={2.5} viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                </svg>
+              </a>
+              <a
+                href="https://drive.google.com/file/d/1I69PdDgyrLlD4zTuolsDVwYyhuaNGu2s/view?usp=drive_link"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-6 py-3 rounded-lg font-bold text-sm tracking-wide bg-slate-100 hover:bg-slate-200 text-slate-800 border border-slate-200 shadow-sm transition-all duration-200 flex items-center gap-2"
+              >
+                View Resume
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                 </svg>
               </a>
               <a
@@ -110,7 +121,7 @@ export default function Home() {
                   </div>
                   <div className="text-left">
                     <h4 className="text-[11px] text-slate-500 font-bold uppercase tracking-wider">Development</h4>
-                    <p className="text-sm font-semibold text-slate-800">AI Medical Assistant</p>
+                    <p className="text-sm font-semibold text-slate-800">Python Development</p>
                   </div>
                 </div>
 

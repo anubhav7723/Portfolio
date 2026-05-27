@@ -121,7 +121,7 @@ export default function Contact() {
               Let's <span className="text-slate-900">Connect </span>
             </h2>
             <p className="text-slate-500 text-sm leading-relaxed max-w-sm pt-2">
-              Have an internship offer, an exciting ML project, or a web application challenge? Let's build something remarkable together.
+              Have an internship offer, an exciting ML project, or a data engineering challenge? Let's build something remarkable together.
             </p>
           </div>
 

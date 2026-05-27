@@ -87,6 +87,14 @@ export default function Navbar() {
           ))}
           
           <a
+            href="https://docs.google.com/document/d/1oQFm7j3wDNxxGLScCs0Fq78lRbrPJkbBT8j9nXCVDsA/edit?usp=drive_link"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-4 py-1.5 rounded-lg text-xs font-semibold uppercase tracking-wider text-slate-800 bg-slate-100 hover:bg-slate-200 border border-slate-200 shadow-sm transition-all duration-300 hover:-translate-y-0.5"
+          >
+            Resume
+          </a>
+          <a
             href="#contact"
             onClick={(e) => handleScrollTo(e, "contact")}
             className="px-4 py-1.5 rounded-lg text-xs font-semibold uppercase tracking-wider text-white bg-slate-900 hover:bg-slate-800 shadow-sm transition-all duration-300 hover:-translate-y-0.5"
@@ -145,6 +153,14 @@ export default function Navbar() {
               {link.name}
             </a>
           ))}
+          <a
+            href="https://docs.google.com/document/d/1oQFm7j3wDNxxGLScCs0Fq78lRbrPJkbBT8j9nXCVDsA/edit?usp=drive_link"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="w-full text-center px-4 py-2.5 rounded-lg text-sm font-semibold text-slate-800 bg-slate-100 border border-slate-200"
+          >
+            Resume
+          </a>
           <a
             href="#contact"
             onClick={(e) => handleScrollTo(e, "contact")}

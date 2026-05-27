@@ -11,35 +11,43 @@ export default function Projects() {
   const projectsData = [
     {
       title: "AI Medical Assistant",
-      description: "An intelligent conversational healthcare assistant utilizing generative AI pipelines and LLMs to assist users in symptom analysis, medical lookup, and basic healthcare questions, providing immediate reference information.",
-      tags: ["Generative AI", "LLM APIs", "Python", "RAG Pipeline"],
-      icon: "🩺",
-      github: "https://github.com/anubhav7723",
-      demo: "https://github.com/anubhav7723" 
+      description: "An intelligent AI-powered medical assistant utilizing Generative AI pipelines and LLMs to analyze medical reports, provide health insights, answer healthcare-related queries, and deliver personalized preliminary guidance through an interactive conversational interface.",
+      tags: ["Python", "LangChain", "LLMs", "FastAPI", "Vector Database", "React"],
+      icon: "🩺", 
+      github: "https://github.com/anubhav7723/AI_Medical_Assistant",
+      // demo: "https://github.com/anubhav7723/AI_Medical_Assistant" 
     },
     {
       title: "Medical Report Analyzer",
-      description: "An AI-powered document intelligence application using advanced OCR pipelines (EasyOCR) and deep learning to parse complex laboratory values, clinical biomarkers, and diagnostic reports, creating structured analytics.",
-      tags: ["Deep Learning", "OCR Systems", "Python", "Scikit-Learn"],
+      description: "An AI-powered medical report analysis system designed to extract, process, and interpret medical data from reports using OCR and machine learning techniques, delivering meaningful health insights through an interactive and user-friendly interface.",
+      tags: ["Python", "LLM", "OCR", "OpenCV", "Pandas", "Machine Learning"],
       icon: "📋",
-      github: "https://github.com/anubhav7723",
-      demo: "https://github.com/anubhav7723"
+      github: "https://github.com/anubhav7723/medical_report_analyzer",
+      // demo: "https://github.com/anubhav7723/medical_report_analyzer"
     },
     {
       title: "Log Classification System (NLP)",
-      description: "A specialized NLP model pipeline that ingests raw server logs, extracts textual feature sequences, and classifies them into operational severities (INFO, WARN, ERROR) to minimize cloud incident response time.",
-      tags: ["NLP Core", "TF-IDF / BERT", "Scikit-Learn", "Regex Parsing"],
+      description: "An intelligent log classification system utilizing Natural Language Processing and machine learning algorithms to analyze system logs, categorize events, detect anomalies, and improve monitoring efficiency through automated insights.",
+      tags: ["Python", "Scikit-learn", "NLP", "Pandas", "DBSCAN Clustering", "FastAPI"],
       icon: "🖥️",
-      github: "https://github.com/anubhav7723",
-      demo: "https://github.com/anubhav7723"
+      github: "https://github.com/anubhav7723/nlp-log-classification",
+      // demo: "https://github.com/anubhav7723/nlp-log-classification"
     },
     {
       title: "Handwritten Digit Classification",
-      description: "An interactive convolutional neural network (CNN) classifier trained on the MNIST database. Ingests drawings from a real-time responsive drawing canvas and outputs real-time digit recognition probability charts.",
-      tags: ["CNN Models", "TensorFlow / Keras", "Canvas API", "Web Interface"],
+      description: "A deep learning-based handwritten digit classification system utilizing Convolutional Neural Networks to accurately recognize and classify handwritten digits from image data with high prediction performance.",
+      tags: ["Deep Learning", "CNN Models", "TensorFlow", "PyGame", "MNIST"],
       icon: "🔢",
-      github: "https://github.com/anubhav7723",
-      demo: "https://github.com/anubhav7723"
+      github: "https://github.com/anubhav7723/Handwritten_Digit_Classification",
+      // demo: "https://github.com/anubhav7723/Handwritten_Digit_Classification"
+    },
+    {
+      title: "Food Ordering Bot (NLP)",
+      description: "An NLP-based food recommendation chatbot designed to understand user queries, provide personalized food suggestions, and deliver interactive conversational experiences using Natural Language Processing and machine learning techniques.",
+      tags: ["Dialogflow", "NLP", "Rule-Based Approach", "NER"],
+      icon: "🍽️",
+      github: "https://github.com/anubhav7723/nlp-foodBot",
+      // demo: "https://github.com/anubhav7723/nlp-foodBot"
     }
   ]
 

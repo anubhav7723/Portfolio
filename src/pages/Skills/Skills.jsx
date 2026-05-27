@@ -10,37 +10,68 @@ export default function Skills() {
 
   const skillCategories = [
     {
-      title: "AIML Skills",
-      icon: "🤖",
+      title: "Languages",
       skills: [
-        { name: "Generative AI", tag: "Agents & RAG" },
-        { name: "TensorFlow & Keras", tag: "Deep Neural Nets" },
-        { name: "PyTorch & CNNs", tag: "Computer Vision" },
-        { name: "Scikit-Learn", tag: "Supervised Learning" },
-        { name: "Computer Vision (OpenCV)", tag: "Image Processing" },
-        { name: "OCR Pipelines (EasyOCR)", tag: "Doc Intelligence" }
+        { name: "Python", tag: "Scripting & AI" },
+        { name: "C++", tag: "DSA & Core" },
+        { name: "SQL", tag: "Databases" },
+        { name: "JavaScript", tag: "Frontend Logic" }
       ]
     },
     {
-      title: "Data Engineer Skills",
-      icon: "📊",
+      title: "AI & ML",
       skills: [
-        { name: "Pandas & NumPy", tag: "Data Wrangling" },
-        { name: "SQL Databases", tag: "Structured Queries" },
-        { name: "Feature Engineering", tag: "Model Prep" },
-        { name: "ETL Data Pipelines", tag: "Data Processing" },
-        { name: "CSV/JSON Processing", tag: "Raw Formats" },
-        { name: "REST APIs Integration", tag: "Data Fetching" }
+        { name: "Machine Learning", tag: "Statistical Models" },
+        { name: "Deep Learning", tag: "Neural Networks" },
+        { name: "NLP", tag: "Text Processing" },
+        { name: "Computer Vision", tag: "Image Models" },
+        { name: "Generative AI", tag: "Agents & LLMs" },
+        { name: "Prompt Engineering", tag: "System Prompts" },
+        { name: "Fine-tuning", tag: "Model Adapters" }
       ]
     },
     {
-      title: "Programming & Tools",
-      icon: "⚙️",
+      title: "Gen AI & LLMs",
       skills: [
-        { name: "C++ Programming", tag: "DSA & Algorithms" },
-        { name: "Python Programming", tag: "Scripting & Dev" },
-        { name: "Git & GitHub", tag: "Version Control" },
-        { name: "VS Code IDE", tag: "Debug & Profiles" },
+        { name: "LangChain", tag: "Orchestration" },
+        { name: "LangGraph", tag: "Stateful Agents" },
+        { name: "RAG", tag: "Retrieval" },
+        { name: "FAISS", tag: "Vector Store" },
+        { name: "HuggingFace", tag: "Model Hub" },
+        { name: "Transformers", tag: "Attention Nets" }
+      ]
+    },
+    {
+      title: "Backend & Tools",
+      skills: [
+        { name: "FastAPI", tag: "High-Perf APIs" },
+        { name: "REST APIs", tag: "Endpoints" },
+        { name: "Git", tag: "Version Control" },
+        { name: "GitHub", tag: "Collaboration" },
+        { name: "Streamlit", tag: "Rapid Prototyping" },
+        { name: "Jupyter Notebook", tag: "Data Science" },
+        { name: "VS Code", tag: "IDE & Debug" }
+      ]
+    },
+    {
+      title: "Libraries",
+      skills: [
+        { name: "NumPy", tag: "Numerical Comp" },
+        { name: "Pandas", tag: "Data Manipulation" },
+        { name: "Scikit-learn", tag: "Classic ML" },
+        { name: "TensorFlow", tag: "Deep Learning" },
+        { name: "OpenCV", tag: "Image & Video" },
+        { name: "NLTK", tag: "Text Prep" },
+        { name: "SpaCy", tag: "Industrial NLP" }
+      ]
+    },
+    {
+      title: "Core CS",
+      skills: [
+        { name: "DSA", tag: "Data Structs & Algos" },
+        { name: "DBMS", tag: "Database Systems" },
+        { name: "OS", tag: "System Core" },
+        { name: "OOPs", tag: "Design Patterns" }
       ]
     }
   ]
