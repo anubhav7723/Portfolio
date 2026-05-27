@@ -87,7 +87,7 @@ export default function Navbar() {
           ))}
           
           <a
-            href="https://docs.google.com/document/d/1oQFm7j3wDNxxGLScCs0Fq78lRbrPJkbBT8j9nXCVDsA/edit?usp=drive_link"
+            href="https://drive.google.com/file/d/1I69PdDgyrLlD4zTuolsDVwYyhuaNGu2s/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-1.5 rounded-lg text-xs font-semibold uppercase tracking-wider text-slate-800 bg-slate-100 hover:bg-slate-200 border border-slate-200 shadow-sm transition-all duration-300 hover:-translate-y-0.5"
