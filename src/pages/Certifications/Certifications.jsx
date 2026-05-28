@@ -57,7 +57,7 @@ export default function Certifications() {
     {
       title: "AI & ML Research Publication",
       issuer: "Academic Research Initiative",
-      date: "Published 2025",
+      date: "Submitted 2025",
       id: "RES-PAPER-2025",
       skills: ["Scientific Writing", "Algorithm Optimization", "Peer Review", "Statistical Validity"],
       verifyUrl: "https://drive.google.com/file/d/1kxKB1yKCxUHvMl4XhbNusNNHKjEIJY0o/view?usp=drive_link",
