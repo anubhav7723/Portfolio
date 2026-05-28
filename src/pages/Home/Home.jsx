@@ -45,7 +45,7 @@ export default function Home() {
 
             {/* Subtitle */}
             <h2 className="hero-subtitle text-lg md:text-xl font-bold text-slate-700 flex items-center gap-2">
-              AIML Developer <span className="text-slate-400">&bull;</span> Python Developer <span className="text-slate-400">&bull;</span> Data Science
+            AIML Developer <span className="text-slate-400">&bull;</span> Python Developer <span className="text-slate-400">&bull;</span> Software Developer
             </h2>
 
             {/* Description */}
@@ -122,6 +122,7 @@ export default function Home() {
                   <div className="text-left">
                     <h4 className="text-[11px] text-slate-500 font-bold uppercase tracking-wider">Development</h4>
                     <p className="text-sm font-semibold text-slate-800">Python Development</p>
+                    <p className="text-sm font-semibold text-slate-800">Full Stack AI Development</p>
                   </div>
                 </div>
 
@@ -131,7 +132,7 @@ export default function Home() {
                   </div>
                   <div className="text-left">
                     <h4 className="text-[11px] text-slate-500 font-bold uppercase tracking-wider">Education Level</h4>
-                    <p className="text-sm font-semibold text-slate-800">B.Tech CSE student (AIML)</p>
+                    <p className="text-sm font-semibold text-slate-800">B.Tech CSE (AIML) student</p>
                   </div>
                 </div>
               </div>
