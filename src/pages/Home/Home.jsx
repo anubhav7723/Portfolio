@@ -122,7 +122,7 @@ export default function Home() {
                   <div className="text-left">
                     <h4 className="text-[11px] text-slate-500 font-bold uppercase tracking-wider">Development</h4>
                     <p className="text-sm font-semibold text-slate-800">Python Development</p>
-                    <p className="text-sm font-semibold text-slate-800">Full Stack AI Development</p>
+                    <p className="text-sm font-semibold text-slate-800">Agentic AI Development</p>
                   </div>
                 </div>
 
