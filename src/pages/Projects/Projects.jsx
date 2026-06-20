@@ -10,6 +10,14 @@ export default function Projects() {
 
   const projectsData = [
     {
+      title: "Autonomous Research Agent",
+      description: "An autonomous AI research agent that plans, executes, and synthesizes multi-source research reports in real time using LangGraph orchestration, integrating web search, Wikipedia, ArXiv, and PDF tools with semantic vector memory for context-aware, citation-backed answers.",
+      tags: ["Python", "LangGraph", "Groq", "Flask", "ChromaDB", "Docker", "AWS EC2"],
+      icon: "🔬",
+      github: "https://github.com/anubhav7723/Autonomous-Research-Agent",
+      // demo: "http://YOUR-EC2-IP:5000"
+    },  
+    {
       title: "AI Medical Assistant",
       description: "An intelligent AI-powered medical assistant utilizing Generative AI pipelines and LLMs to analyze medical reports, provide health insights, answer healthcare-related queries, and deliver personalized preliminary guidance through an interactive conversational interface.",
       tags: ["Python", "LangChain", "LLMs", "FastAPI", "Vector Database", "React"],
