@@ -24,7 +24,7 @@ export default function Certifications() {
       date: "Completed 2025",
       id: "AIML-INT-2025",
       skills: ["Model Deployment", "Python Scripting", "ML Pipelines", "Agentic Systems"],
-      verifyUrl: "https://drive.google.com/file/d/1brR49xk2EYjomB19G8E5nUKMgbgEANBR/view?usp=drive_link",
+      verifyUrl: "https://drive.google.com/file/d/1brR49xk2EYjomB19G8E5nUKMgbgEANBR/view?usp=sharing",
       image: AIMLInternship
     },
     {
@@ -51,7 +51,7 @@ export default function Certifications() {
       date: "Completed 2024",
       id: "NPTEL-PY-2024",
       skills: ["Statistical Analysis", "Data Manipulation", "Mathematical Models", "Exploratory Data"],
-      verifyUrl: "https://drive.google.com/file/d/1EqEla0VSCTZo1Sfl9u1LtBKwxdrBTzwu/view?usp=drive_link",
+      verifyUrl: "https://drive.google.com/file/d/1EqEla0VSCTZo1Sfl9u1LtBKwxdrBTzwu/view?usp=sharing",
       image: NPTELPython
     },
     {
@@ -60,7 +60,7 @@ export default function Certifications() {
       date: "Submitted 2025",
       id: "RES-PAPER-2025",
       skills: ["Scientific Writing", "Algorithm Optimization", "Peer Review", "Statistical Validity"],
-      verifyUrl: "https://drive.google.com/file/d/1kxKB1yKCxUHvMl4XhbNusNNHKjEIJY0o/view?usp=drive_link",
+      verifyUrl: "https://drive.google.com/file/d/1kxKB1yKCxUHvMl4XhbNusNNHKjEIJY0o/view?usp=sharing",
       image: ResearchPaper
     },
     {
@@ -69,7 +69,7 @@ export default function Certifications() {
       date: "Participated 2025",
       id: "Code for bharat",
       skills: ["Hackathon", "ChatBot", "Unstop", "Participation"],
-      verifyUrl: "https://drive.google.com/file/d/1Vr0TM93rgFEqWkdCvcNoxjavwqmFBVqQ/view?usp=drive_link",
+      verifyUrl: "https://drive.google.com/file/d/1Vr0TM93rgFEqWkdCvcNoxjavwqmFBVqQ/view?usp=sharing",
       image: CodeForBharat
     },
     {
@@ -78,7 +78,7 @@ export default function Certifications() {
       date: "Participated 2025",
       id: "Acehack",
       skills: ["Hackathon", "Web App", "Dora Hacks", "Participation"],
-      verifyUrl: "https://drive.google.com/file/d/1iYTD3yhCuA7MlrjXoVIv3KdSwZTv9m2u/view?usp=drive_link",
+      verifyUrl: "https://drive.google.com/file/d/1iYTD3yhCuA7MlrjXoVIv3KdSwZTv9m2u/view?usp=sharing",
       image: AceHack
     }
   ]
