@@ -69,6 +69,7 @@ export default function Home() {
                   <path strokeLinecap="round" strokeLinejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3" />
                 </svg>
               </a>
+
               <a
                 href="https://drive.google.com/file/d/1C8xqk8rhDBLXvEilqtDLBULgd5z80927/view?usp=sharing"
                 target="_blank"
@@ -90,6 +91,7 @@ export default function Home() {
               >
                 Get In Touch
               </a>
+              
             </div>
           </div>
 
