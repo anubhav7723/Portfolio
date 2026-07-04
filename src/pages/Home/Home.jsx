@@ -45,7 +45,7 @@ export default function Home() {
 
             {/* Subtitle */}
             <h2 className="hero-subtitle text-lg md:text-xl font-bold text-slate-700 flex items-center gap-2">
-            AIML Developer <span className="text-slate-400">&bull;</span> Python Developer <span className="text-slate-400">&bull;</span> Software Developer
+            AI/ML Developer <span className="text-slate-400">&bull;</span> Python Developer <span className="text-slate-400">&bull;</span> Software Developer
             </h2>
 
             {/* Description */}
