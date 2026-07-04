@@ -113,7 +113,7 @@ export default function Home() {
                   </div>
                   <div className="text-left">
                     <h4 className="text-[11px] text-slate-500 font-bold uppercase tracking-wider">LeetCode Solved</h4>
-                    <p className="text-sm font-semibold text-slate-800">450+ Problems in C++ / Python</p>
+                    <p className="text-sm font-semibold text-slate-800">500+ Problems in C++ / Python</p>
                   </div>
                 </div>
 
