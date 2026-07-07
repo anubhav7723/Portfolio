@@ -71,7 +71,7 @@ export default function Home() {
               </a>
 
               <a
-                href="https://drive.google.com/file/d/1C8xqk8rhDBLXvEilqtDLBULgd5z80927/view?usp=sharing"
+                href="https://drive.google.com/file/d/1VYe2i6dQE_Y2mBHXUm5Gs0fkibPwMlDi/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 rounded-lg font-bold text-sm tracking-wide bg-slate-100 hover:bg-slate-200 text-slate-800 border border-slate-200 shadow-sm transition-all duration-200 flex items-center gap-2"
